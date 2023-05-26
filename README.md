@@ -29,5 +29,7 @@ In this project , the transformation is done in two ways.
 
 The visualization is done using the PowerBi. Multiple charts have been prepared. The details are available in ppt.
 
+**Output Files** : The processed files are available in processed folder.
+
 
 
