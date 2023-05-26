@@ -7,11 +7,11 @@ Develop a data ingestion pipeline in Azure Data Factory to appl ETL process to f
 **Data Ingestion**
 The Extract part of ETL process is done here. The data is ingested from two sources:
 
-**From Azure Blob:**
+**1. From Azure Blob:**
 
 Ingest ”population by age” for all EU Countries into the Data Lake to support the machine learning models to predict increase in Covid-19 mortality rates.
 
-**From http source to Azure Data Lake Data Ingestion**
+**2. From http source to Azure Data Lake Data Ingestion**
 
 Ingest data from https://www.ecdc.europa.eu/en/covid-19/data to Azure Data Lake via the Azure Datafactory.
 
